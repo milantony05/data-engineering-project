@@ -86,6 +86,18 @@ To meet these requirements, the solution is broken down into the following compo
 
 1. **Trigger and Test Pipelines**: Insert new records into the SQL database and verify that the entire pipeline runs successfully, updating the Power BI dashboard.
 
+## Gallery
+
+<img width="969" height="403" alt="Picture1" src="https://github.com/user-attachments/assets/6b169961-1b3c-4156-9c8d-bb1a198647a5" />
+
+<img width="602" height="295" alt="Picture2" src="https://github.com/user-attachments/assets/924440ff-f232-40a1-b1e0-daea98e46f1a" />
+
+<img width="602" height="177" alt="Picture3" src="https://github.com/user-attachments/assets/f45a179f-ced6-4d63-a534-733f0babf219" />
+
+<img width="602" height="250" alt="Picture4" src="https://github.com/user-attachments/assets/c6637743-fa6a-4848-aac8-810f709132b7" />
+
+<img width="602" height="346" alt="Picture5" src="https://github.com/user-attachments/assets/a5254560-b59d-4323-bf8f-4a7cab6e78f1" />
+
 ## Conclusion
 
 This project provides a robust end-to-end solution for understanding customer demographics and their impact on sales. The automated data pipeline ensures that stakeholders always have access to the most current and actionable insights.
